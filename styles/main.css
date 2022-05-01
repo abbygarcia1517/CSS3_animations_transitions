@@ -1,9 +1,12 @@
 .card {
-  background-color: blueviolet;
   width: 300px;
+  height: 300px;
+  -webkit-transition-property: width;
+  transition-property: width;
 }
 
 .card:hover {
   width: 400px;
+  height: 300px;
 }
 /*# sourceMappingURL=main.css.map */
