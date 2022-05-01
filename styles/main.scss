@@ -1,5 +1,12 @@
-h1{
+.card{
 
-    background-color: pink;
+    background-color: blueviolet;
+    width: 300px;
+
+&:hover{
+
+width: 400px;
+
+}
 
 }
